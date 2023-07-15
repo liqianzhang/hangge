@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="gaoqian:war">
+    <output-path>$PROJECT_DIR$/gaoqian/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>gaoqian</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="gaoqian-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="gaoqian:war exploded" />
+    </root>
+  </artifact>
+</component>

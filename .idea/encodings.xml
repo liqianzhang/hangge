@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/bonnie/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chenjiayan/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cindy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cindy/zhang/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cris/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fujiayu/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gaoqian/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hangge-base/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hangge-dao/linli/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hangge-dao/pd20bus/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hangge-dao/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hangge-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hangge-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/linli/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/niki/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pd20bus/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhang/src/main/java" charset="UTF-8" />
   </component>
 </project>

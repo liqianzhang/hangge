@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="linli:war">
+    <output-path>$PROJECT_DIR$/linli/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>linli</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="linli-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="linli:war exploded" />
+    </root>
+  </artifact>
+</component>

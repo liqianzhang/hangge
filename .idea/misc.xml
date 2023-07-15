@@ -24,7 +24,22 @@
         <option value="$PROJECT_DIR$/hangge-dao/pom.xml" />
         <option value="$PROJECT_DIR$/hangge-service/pom.xml" />
         <option value="$PROJECT_DIR$/hangge-web/pom.xml" />
+        <option value="$PROJECT_DIR$/pd20bus/pom.xml" />
+        <option value="$PROJECT_DIR$/cindy/pom.xml" />
+        <option value="$PROJECT_DIR$/niki/pom.xml" />
+        <option value="$PROJECT_DIR$/linli/pom.xml" />
+        <option value="$PROJECT_DIR$/zhang/pom.xml" />
+        <option value="$PROJECT_DIR$/gaoqian/pom.xml" />
+        <option value="$PROJECT_DIR$/chenjiayan/pom.xml" />
+        <option value="$PROJECT_DIR$/fujiayu/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/bonnie/pom.xml" />
+        <option value="$PROJECT_DIR$/cris/pom.xml" />
+        <option value="$PROJECT_DIR$/niki/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">

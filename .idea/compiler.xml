@@ -6,27 +6,55 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="hangge-web" />
-        <module name="hangge-dao" />
+        <module name="gaoqian" />
         <module name="hangge-service" />
+        <module name="fujiayu" />
+        <module name="cris" />
+        <module name="hangge-web" />
+        <module name="pd20bus" />
+        <module name="cindy" />
+        <module name="hangge-dao" />
+        <module name="zhang" />
+        <module name="linli" />
+        <module name="chenjiayan" />
         <module name="hangge-base" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="bonnie" target="1.8" />
+      <module name="chenjiayan" target="1.8" />
+      <module name="cindy" target="1.8" />
+      <module name="cris" target="1.8" />
+      <module name="fujiayu" target="1.8" />
+      <module name="gaoqian" target="1.8" />
       <module name="hangge" target="1.8" />
       <module name="hangge-base" target="1.8" />
       <module name="hangge-dao" target="1.8" />
       <module name="hangge-service" target="1.8" />
       <module name="hangge-web" target="1.8" />
+      <module name="linli" target="1.8" />
+      <module name="niki" target="1.8" />
+      <module name="pd20bus" target="1.8" />
+      <module name="zhang" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="bonnie" options="-parameters" />
+      <module name="chenjiayan" options="-parameters" />
+      <module name="cindy" options="-parameters" />
+      <module name="cris" options="-parameters" />
+      <module name="fujiayu" options="-parameters" />
+      <module name="gaoqian" options="-parameters" />
       <module name="hangge" options="-parameters" />
       <module name="hangge-base" options="-parameters" />
       <module name="hangge-dao" options="-parameters" />
       <module name="hangge-service" options="-parameters" />
       <module name="hangge-web" options="-parameters" />
+      <module name="linli" options="-parameters" />
+      <module name="niki" options="-parameters" />
+      <module name="pd20bus" options="-parameters" />
+      <module name="zhang" options="-parameters" />
     </option>
   </component>
 </project>

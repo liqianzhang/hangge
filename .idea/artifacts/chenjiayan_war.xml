@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="chenjiayan:war">
+    <output-path>$PROJECT_DIR$/chenjiayan/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>chenjiayan</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="chenjiayan-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="chenjiayan:war exploded" />
+    </root>
+  </artifact>
+</component>

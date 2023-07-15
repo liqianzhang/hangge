@@ -1,20 +1,19 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="hangge-base:war exploded">
-    <output-path>$PROJECT_DIR$/hangge-base/target/hangge-base-0.0.1-SNAPSHOT</output-path>
+  <artifact type="exploded-war" name="cindy:war exploded">
+    <output-path>$PROJECT_DIR$/cindy/target/cindy-0.0.1-SNAPSHOT</output-path>
     <properties id="maven-jee-properties">
       <options>
         <exploded>true</exploded>
-        <module>hangge-base</module>
+        <module>cindy</module>
         <packaging>war</packaging>
       </options>
     </properties>
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="hangge-base" />
+          <element id="module-output" name="cindy" />
         </element>
         <element id="directory" name="lib">
-          <element id="library" level="project" name="Maven: org.projectlombok:lombok:1.18.28" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-web:2.7.13" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter:2.7.13" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot:2.7.13" />
@@ -45,6 +44,7 @@
           <element id="library" level="project" name="Maven: org.hdrhistogram:HdrHistogram:2.1.12" />
           <element id="library" level="project" name="Maven: org.latencyutils:LatencyUtils:2.0.3" />
           <element id="library" level="project" name="Maven: com.h2database:h2:2.1.214" />
+          <element id="library" level="project" name="Maven: org.projectlombok:lombok:1.18.28" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-jdbc:2.7.13" />
           <element id="library" level="project" name="Maven: com.zaxxer:HikariCP:4.0.3" />
           <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:5.3.28" />
@@ -122,9 +122,9 @@
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/hangge-base/target/hangge-base-0.0.1-SNAPSHOT/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/cindy/target/cindy-0.0.1-SNAPSHOT/META-INF/MANIFEST.MF" />
       </element>
-      <element id="javaee-facet-resources" facet="hangge-base/web/Web" />
+      <element id="javaee-facet-resources" facet="cindy/web/Web" />
     </root>
   </artifact>
 </component>

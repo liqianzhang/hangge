@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cindy:war">
+    <output-path>$PROJECT_DIR$/cindy/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>cindy</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="cindy-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="cindy:war exploded" />
+    </root>
+  </artifact>
+</component>
