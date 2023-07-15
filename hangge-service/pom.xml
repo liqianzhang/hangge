@@ -8,7 +8,7 @@
         <artifactId>hangge</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
-    <groupId>com.example</groupId>
+    <groupId>com.practice</groupId>
     <artifactId>hangge-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
@@ -21,7 +21,7 @@
     <dependencies>
         <!-- service 子模块又依赖 dao 子模块 -->
         <dependency>
-            <groupId>com.example</groupId>
+            <groupId>com.practice</groupId>
             <artifactId>hangge-dao</artifactId>
         </dependency>
     </dependencies>
