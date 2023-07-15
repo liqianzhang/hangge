@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hangge-dao:war">
+    <output-path>$PROJECT_DIR$/hangge-dao/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>hangge-dao</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="hangge-dao-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="hangge-dao:war exploded" />
+    </root>
+  </artifact>
+</component>

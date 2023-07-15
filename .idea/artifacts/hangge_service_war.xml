@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hangge-service:war">
+    <output-path>$PROJECT_DIR$/hangge-service/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>hangge-service</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="hangge-service-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="hangge-service:war exploded" />
+    </root>
+  </artifact>
+</component>
